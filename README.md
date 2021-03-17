@@ -9,7 +9,7 @@ Created this back in 2017 in with Unity + Vuforia ported for Android!
 <img src="Screenshots/Screenshots.png" width="720" height="400">
 
 ### - View in Unity:
-<img src="Screenshots/Scenary.png" width="560" height="300">
+<img src="Screenshots/Scenary.png" width="520" height="300">
 <img src="Screenshots/gun_view.png" width="480" height="320">
 
 ### - Targets used for tracking:
