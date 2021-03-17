@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MarcadorCostumizado" size="0.100000 0.100000" />
+    <ImageTarget name="MarcadorArma" size="0.065000 0.065237" />
+    <ImageTarget name="MarcadorBurgerKing" size="0.210000 0.338242" />
+    <ImageTarget name="MarcadorReal5" size="0.130000 0.065567" />
+    <ImageTarget name="MarcadorPedra" size="0.230000 0.161000" />
+  </Tracking>
+</QCARConfig>
