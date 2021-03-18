@@ -6,19 +6,20 @@ Created this back in 2017 in with Unity + Vuforia ported for Android!
 - A target image for your gun, to shoot the gun you must activate a virtual button on the gun target.
 
 ### - Screnshots:
-<img src="Screenshots/Screenshots.png" width="720" height="400">
+![1](Screenshots/Screenshots.png)
 
 ### - View in Unity:
-<img src="Screenshots/Scenary.png" width="520" height="300">
-<img src="Screenshots/gun_view.png" width="480" height="320">
+![1](Screenshots/Scenary.png)
+![1](Screenshots/gun_view.png)
 
 ### - Targets used for tracking:
 
 #### Target used for scenary:
 
-<img src="_Source/Editor/Vuforia/ImageTargetTextures/Marcadores_Atirador/MarcadorPedra_scaled.jpg" width="620" height="400">
+
+![photo](_Source/Editor/Vuforia/ImageTargetTextures/Marcadores_Atirador/MarcadorPedra_scaled.jpg)
 
 #### Target used for gun:
-<img src="_Source/Editor/Vuforia/ImageTargetTextures/Marcadores_Atirador/MarcadorArma_scaled.jpg" width="300" height="300">
+![pic](_Source/Editor/Vuforia/ImageTargetTextures/Marcadores_Atirador/MarcadorArma_scaled.jpg)
 
 <strong> APK </strong> and Documentation (Portuguese) is included in files.
